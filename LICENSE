@@ -1,0 +1,4 @@
+The code in this project can take a .SAV file, read it into the notebook and analyze. 
+Specifically, it is designed to take individual student data and analyze institutional 
+factors' effect on student GPA. The code is written to determine the predictive strength 
+of linear and non-linear models as measured by RMSE. 
